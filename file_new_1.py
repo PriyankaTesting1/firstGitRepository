@@ -1,1 +1,1 @@
-print("Welcome to the game!")
+print("Welcome to the heaven!")
